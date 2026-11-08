@@ -13,7 +13,7 @@
 - 💼 Venho da **área financeira e administrativa**: contas a pagar e receber, conciliação bancária, ERP e notas fiscais. Hoje uso essa vivência para **criar sistemas que resolvem problemas reais de empresas**.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🛠️ Desenvolvo **sistemas desktop** (Delphi, Python), **aplicações web** (C# / ASP.NET, PHP, React) e **automações**
-- 🚀 Fundei a **IUPTech**: tecnologia que simplifica, com ideias e soluções reais para pequenos negócios
+- 🚀 Na **IUPTech** levo tecnologia que simplifica, com ideias e soluções reais, para pequenos negócios
 
 ### 🧰 Tecnologias
 
