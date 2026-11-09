@@ -39,13 +39,16 @@
 | 👥 [**ClienteHub**](https://github.com/walacevdgicm-ops/clientehub) | Cadastro e gestão de clientes com área administrativa | C# · ASP.NET Core · MySQL |
 | 🎓 [**Study Planner AI**](https://github.com/walacevdgicm-ops/study-planner-ai) | Planejador acadêmico com motor de priorização e revisão espaçada | React · TypeScript |
 | ✅ [**GPriority**](https://github.com/walacevdgicm-ops/gpriority) | Gestor de tarefas com dashboard, calendário e exportação Excel/PDF | Python · CustomTkinter |
-| 🔐 [**Neon Login**](https://github.com/walacevdgicm-ops/neon-login-customtkinter) | Login e cadastro modernos com senhas em hash | Python · CustomTkinter |
+| 📅 [**Escala de Senhoras**](https://github.com/walacevdgicm-ops/escala-senhoras) | Gera a escala anual de rodízio e exporta em PDF. Em uso de verdade · [abrir demo](https://walacevdgicm-ops.github.io/escala-senhoras/) | HTML · CSS · JavaScript |
 
 <details>
 <summary>📚 Mais projetos e estudos</summary>
 
 - [FinPanel](https://github.com/walacevdgicm-ops/finpanel) e [FinPanel SQLite](https://github.com/walacevdgicm-ops/finpanel-sqlite): versões anteriores do ERP
 - [Nexus ERP v1](https://github.com/walacevdgicm-ops/nexus-erp-v1): primeira versão do Nexus
+- [Neon Login](https://github.com/walacevdgicm-ops/neon-login-customtkinter): tela de login e cadastro com senhas em hash (CustomTkinter)
+- [AuthGate PHP](https://github.com/walacevdgicm-ops/authgate-php): cadastro, login e sessão com PHP + MySQL
+- [TaskFlow PHP](https://github.com/walacevdgicm-ops/taskflow-php): lista de tarefas com API em PHP e front em JavaScript
 - [Python POO Lab](https://github.com/walacevdgicm-ops/python-poo-lab): minha trilha de Orientação a Objetos, até um sistema bancário
 
 </details>
